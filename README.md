@@ -9,10 +9,12 @@ pode contar alguns erros, mas nada que comprometa o funcionamento do código.
 ##IMAGEM
 
 um menu com algumas opções onde digitando o numero que vc quer, aparece um submenu.
-![image](https://github.com/user-attachments/assets/12e2edaa-84ae-4fc7-9a10-6ffa1c0bcabd)
+![image](https://github.com/user-attachments/assets/09e94419-7335-4b06-adef-95da7cd27f39)
+
 
 todos os submenus tem as mesmas opções, mas os dados que serão digitados serão diferentes de acordo com a opção escolhida no menu
-![image](https://github.com/user-attachments/assets/2344514c-bb6d-4c58-bf92-c2650b00dd4e)
+![image](https://github.com/user-attachments/assets/05ea3072-b024-4242-af1c-524f04361192)
+
 
 ## VIDEO DE EXEMPLO
 https://github.com/user-attachments/assets/85445f55-6a1b-47d3-8f1f-3e64a04d9392
