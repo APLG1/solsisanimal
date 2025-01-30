@@ -1,0 +1,42 @@
+create database sysanimaldb;
+
+use sysanimaldb;
+
+create table ESPECIE (
+ID INT IDENTITY (1,1) PRIMARY KEY,
+CODIGO INT,
+NOME VARCHAR(20)
+);
+
+CREATE TABLE ANIMAL (
+ID INT IDENTITY (1,1) PRIMARY KEY,
+
+NOMEANIMAL VARCHAR(20), 
+APELIDO VARCHAR(20),
+DATANAS VARCHAR (20),
+OBS VARCHAR (60)
+);
+
+CREATE TABLE CLIENTE (
+ID INT IDENTITY (1,1) PRIMARY KEY,
+
+NOMECLIENTE VARCHAR(20),
+EMAIL VARCHAR (20),
+CPF VARCHAR(20),
+NUMEROT VARCHAR(20),
+);
+
+
+
+
+insert into ESPECIE (codigo, nome) values (10,'PRIMATA');
+
+
+SELECT * FROM ESPECIE
+
+
+
+insert - C
+select - R
+update - U
+delete - D

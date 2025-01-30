@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalview\bin\Debug\sisanimalview.dll
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalview\bin\Debug\sisanimalview.pdb
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalview\bin\Debug\sisanimalmodel.dll
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalview\bin\Debug\sysanimalcontroller.dll
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalview\bin\Debug\sisanimalmodel.pdb
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalview\bin\Debug\sysanimalcontroller.pdb
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalview\obj\Debug\sisanimalview-csa.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalview\obj\Debug\sisanimalview-csa.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalview\obj\Debug\sisanima.9AD82FF1.Up2Date
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalview\obj\Debug\sisanimalview.dll
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalview\obj\Debug\sisanimalview.pdb

@@ -1,0 +1,96 @@
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sysanimalcontroller.dll
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sysanimalcontroller.pdb
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sisanimalmodel.dll
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sisanimalmodel.pdb
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanima.3FEF977F.Up2Date
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.dll
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.pdb
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sysanimalcontroller.dll.config
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sysanimalcontroller.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sysanimalcontroller.pdb
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sisanimalmodel.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sisanimalmodel.pdb
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanima.3FEF977F.Up2Date
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.pdb
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sysanimalcontroller.dll.config
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sysanimalcontroller.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sysanimalcontroller.pdb
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sisanimalmodel.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\sisanimalmodel.pdb
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanima.3FEF977F.Up2Date
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.dll
+C:\Users\User\Desktop\acabaaa\solsisanimal (1)\solsisanimal\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.pdb
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\sysanimalcontroller.dll.config
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\sysanimalcontroller.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\sysanimalcontroller.pdb
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\sisanimalmodel.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\sisanimalmodel.pdb
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\obj\Debug\sysanima.3FEF977F.Up2Date
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sysanimalcontroller\obj\Debug\sysanimalcontroller.pdb

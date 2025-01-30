@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sisanimalmodel\bin\Debug\sisanimalmodel.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sisanimalmodel\bin\Debug\sisanimalmodel.pdb
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sisanimalmodel\obj\Debug\sysanimalmodel.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sisanimalmodel\obj\Debug\sysanimalmodel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sisanimalmodel\obj\Debug\sisanimalmodel.dll
+C:\Users\Admin\Desktop\acaaba\solsisanimal (1)\solsisanimal\solsisanimal\sisanimalmodel\obj\Debug\sisanimalmodel.pdb
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sisanimalmodel\bin\Debug\sisanimalmodel.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sisanimalmodel\bin\Debug\sisanimalmodel.pdb
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sisanimalmodel\obj\Debug\sysanimalmodel.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sisanimalmodel\obj\Debug\sysanimalmodel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sisanimalmodel\obj\Debug\sisanimalmodel.dll
+C:\Users\Admin\Desktop\456\solsisanimal (2)\solsisanimal\sisanimalmodel\obj\Debug\sisanimalmodel.pdb

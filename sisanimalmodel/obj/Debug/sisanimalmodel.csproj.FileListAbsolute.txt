@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalmodel\bin\Debug\sisanimalmodel.dll
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalmodel\bin\Debug\sisanimalmodel.pdb
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalmodel\obj\Debug\sisanimalmodel.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalmodel\obj\Debug\sisanimalmodel.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalmodel\obj\Debug\sisanimalmodel.dll
+C:\Users\Administrador\Desktop\solsisanimal\solsisanimal\sisanimalmodel\obj\Debug\sisanimalmodel.pdb
