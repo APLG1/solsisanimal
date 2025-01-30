@@ -19,6 +19,9 @@ todos os submenus tem as mesmas opções, mas os dados que serão digitados ser�
 ## VIDEO DE EXEMPLO
 
 
-Uploading c-users-admin-desktop-456-solsisanimal-2-solsisanimal-ca-sisanimal-parte1-men_UYrnEMfc.mp4…
+
+
+https://github.com/user-attachments/assets/95f49fc7-a711-47e1-b98e-e940c611181b
+
 
 
